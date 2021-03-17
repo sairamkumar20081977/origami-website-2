@@ -1,0 +1,16 @@
+.header{
+    background-color: cornflowerblue;
+    justify-content: space-between;
+}
+.menu{
+    background-color: darkgoldenrod;
+    justify-content: space-between;
+}
+.bodyImg{
+    background-color: gold;
+    justify-content:space-between ;
+}
+h1{
+    color: indigo;
+    margin-left: 60px;
+}
